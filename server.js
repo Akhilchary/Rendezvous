@@ -2,6 +2,8 @@ const express = require('express')
 const app = express()
 var cors = require('cors')
 
+//noobguy is stupid .......
+
 //importing uuid which is used to generate random codes which will be used for room ids
 //we are extracting a specific version of uuid
 const {
