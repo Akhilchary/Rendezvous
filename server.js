@@ -9,7 +9,7 @@ const {
 } = require('uuid');
 
 
-
+//noobguy is stupid....
 
 //CORS
 app.use(cors())
